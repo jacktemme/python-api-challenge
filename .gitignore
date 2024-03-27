@@ -1,4 +1,4 @@
-# Adding config.py file.
+# Adding config.py file to gitignore
 api_keys.py
 
 # Byte-compiled / optimized / DLL files
