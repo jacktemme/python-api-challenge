@@ -19,3 +19,9 @@ to output:
 to call:
 
   regress_values, line_fit, rvalue = regress(x, y)
+
+And this site was referenced to save a hvplot: 
+
+https://hvplot.holoviz.org/user_guide/Viewing.html
+
+   hvplot.save(plot, 'test.html')
